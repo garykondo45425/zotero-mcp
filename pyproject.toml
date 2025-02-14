@@ -1,0 +1,5 @@
+[project]
+name = "zotero-mcp"
+version = "0.1.0"
+description = "Lightweight Model Context Protocol (MCP) server for the Zotero API, in Python"
+requires-python = ">=3.10"
